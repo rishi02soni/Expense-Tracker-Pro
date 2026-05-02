@@ -1,4 +1,4 @@
-# 💰 Expense Tracker Pro
+## 💰 Expense Tracker Pro
 
 A modern full-stack **Expense Tracker Web Application** built using:
 
@@ -10,7 +10,7 @@ Track your daily expenses, manage categories, and calculate total spending in re
 
 ---
 
-# 📌 Features
+## 📌 Features
 
 - Add New Expenses  
 - Delete Expenses  
@@ -23,7 +23,7 @@ Track your daily expenses, manage categories, and calculate total spending in re
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```
 expense-tracker-pro/
@@ -38,7 +38,7 @@ expense-tracker-pro/
 │   └── script.js
 
 ```
-# ⚙️ Technologies Used
+## ⚙️ Technologies Used
 ### Frontend
 ```
 HTML5
@@ -53,7 +53,7 @@ Database
 MongoDB
 Mongoose
 ```
-# 🚀 Installation Guide
+## 🚀 Installation Guide
 > 1️⃣ Clone Repository
 ```
 git clone https://github.com/yourusername/expense-tracker-pro.git
